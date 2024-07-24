@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/AshPwanth96/url-shortener-go.git
+git clone https://github.com/AshPwanth96/url-shortener.git
 cd url-shortener-go
 Build and run the application:
 
